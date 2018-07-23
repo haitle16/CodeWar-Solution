@@ -13,8 +13,6 @@ String str will never be null.
 https://www.codewars.com/kata/fixme-replace-all-dots
 
 
+Plugged the code into repl and it showed up all "....." 
 
-Plugged the code into repl and it showed up all "....."
-Fixed the code by trying out multiple ways to solve.
-
-
+Fixed the code by adding a " \ " and a ' g ' to perform a global replacement.
